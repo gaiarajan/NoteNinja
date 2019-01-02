@@ -6,11 +6,11 @@
     <br>
   <h3 align="center">Steps for Parsing</h3>
   <ol align="center">
-  <li>Tokenize the Free Text</li>
-    <li>>Address Spelling Errors</li>
- <li>Recognize Special Forms</li>
-  <li>Split into Categories</li>
- <li>Expand Abbreviations</li>
+  <li align="center">Tokenize the Free Text</li>
+    <li align="center">Address Spelling Errors</li>
+ <li align="center">Recognize Special Forms</li>
+  <li align="center">Split into Categories</li>
+ <li align="center">Expand Abbreviations</li>
   </ol>
   </p>
 </p>
