@@ -12,5 +12,6 @@
   <li>Split into Categories</li>
  <li>Expand Abbreviations</li>
   </ol>
+  <img src="schema.png" style="float:left">
   </p>
 </p>
