@@ -5,7 +5,7 @@
      Easily parse doctor's notes for patient conditions and medications. A command line tool.
     <br>
   <h3 align="center">Steps for Parsing</h3>
-  <ol align="center>
+  <ol align="center">
   <li>Tokenize the Free Text</li>
     <li>>Address Spelling Errors</li>
  <li>Recognize Special Forms</li>
