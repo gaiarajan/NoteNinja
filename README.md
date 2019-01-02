@@ -12,6 +12,8 @@
   <li>Split into Categories</li>
  <li>Expand Abbreviations</li>
   </ol>
-  <img src="schema.png" style="left:80%; position:relative;" height="502">
+    <h3>Program Flow</h3>
+
+  <img src="schema.png" height="502">
   </p>
 </p>
