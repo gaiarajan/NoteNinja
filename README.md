@@ -9,7 +9,7 @@
   <li>Tokenize the Free Text: <i>This is a string split by period, to allow for quicker processing of the following steps.</i></li>
     <li>Address Spelling Errors: <i>Doctor's notes are free text, and are entered quickly, meaning that spaces are omitted or words are one or two characters away from a recognized term.</i></li>
  <li>Recognize Special Forms: <i>Units, dates, and other forms follow special(non-abbreviation) forms.</i></li>
-  <li>Split into Categories</li>
+  <li>Split into Categories: <i>Three categories- </i></li>
  <li>Expand Abbreviations</li>
   </ol>
     <h3>Program Flow</h3>
