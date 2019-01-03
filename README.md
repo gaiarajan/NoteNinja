@@ -6,8 +6,8 @@
     <br>
   <h3>Steps for Parsing</h3>
   <ol >
-  <li>Tokenize the Free Text</li>
-    <li>Address Spelling Errors</li>
+  <li>Tokenize the Free Text: <i>This is a string split by period, to allow for quicker processing of the following steps.</i></li>
+    <li>Address Spelling Errors <i>Doctor's notes are free text, and are entered quickly, meaning that spaces are omitted or words are one or two characters away from a recognized term.</i></li>
  <li>Recognize Special Forms</li>
   <li>Split into Categories</li>
  <li>Expand Abbreviations</li>
