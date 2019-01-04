@@ -9,7 +9,7 @@ public class ParseNotes
   public static void main(String [] args)
   {
     Scanner sc = new Scanner(System.in);
-    System.out.println("Please enter the note.");
+    System.out.println("Please enter the doctor's note.");
     String original = sc.nextLine();
     sc.close();
     String[] tokenized = tokenizeNote(original);
