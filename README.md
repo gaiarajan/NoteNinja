@@ -10,7 +10,7 @@
     <li>Address Spelling Errors: <i>Doctor's notes are free text, and are entered quickly, meaning that spaces are omitted or words are one or two characters away from a recognized term.</i></li>
  <li>Recognize Special Forms: <i>Units, dates, and other forms follow special(non-abbreviation) forms.</i></li>
   <li>Split into Categories: <i>Three categories- condition, action, and date.</i></li>
- <li>Expand Abbreviations: <i>Medically recognized, available in a dictionary.</i></li>
+ <li>Expand Abbreviations: <i>Medically recognized abbreviations, available in a dictionary.</i></li>
   </ol>
     <h3>Program Flow</h3>
 
