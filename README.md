@@ -15,5 +15,7 @@
     <h3>Program Flow</h3>
 
   <img src="schema.png" height="502">
+      <h3>Why Do We Care?</h3>
+
   </p>
 </p>
