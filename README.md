@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">NoteNinja</h3>
+  <h2 align="center">NoteNinja: Parsing Doctor's Notes Quickly and Accurately</h3>
 
   <p align="center">
      Easily parse doctor's notes for patient conditions and medications. A command line tool(accepts user input using scanner class)
