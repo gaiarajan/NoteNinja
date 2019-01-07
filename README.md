@@ -2,7 +2,7 @@
   <h2 align="center">NoteNinja</h3>
 
   <p align="center">
-     Easily parse doctor's notes for patient conditions and medications. A command line tool.
+     Easily parse doctor's notes for patient conditions and medications. A command line tool(accepts user input using scanner class)
     <br>
   <h3>Steps for Parsing</h3>
   <ol >
