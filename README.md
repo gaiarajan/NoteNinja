@@ -16,6 +16,6 @@
 
   <img src="schema.png" height="502">
       <h3>Why Do We Care?</h3>
-Parsing free-text doctor's notes into machine-readable text can allow for easier use by machine learning models and more standardized efficiency for care providers. Because doctor's notes are written quickly without a set format, they can be difficult to understand for 
+Parsing free-text doctor's notes into machine-readable text can allow for easier use by machine learning models and more standardized efficiency for care providers. Because doctor's notes are written quickly without a set format, they can be difficult to understand for readers
   </p>
 </p>
