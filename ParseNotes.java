@@ -1,5 +1,5 @@
 //**************************************************************************//
-//  File that parses doctor's notes
+//  Program that parses doctor's notes
 //  Gayatri Rajan
 //**************************************************************************//
 import java.io.*;
